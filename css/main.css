@@ -232,6 +232,13 @@ nav ul li {
   margin-bottom: 20px;
 }
 
+#new {
+  font-size: 40px;
+  min-width: 120px;
+  min-height: 120px;
+  white-space: nowrap;
+}
+
 
 
 
